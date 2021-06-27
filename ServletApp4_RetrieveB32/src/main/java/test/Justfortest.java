@@ -17,4 +17,8 @@ public class Justfortest {
 	public void m4() {
 		System.out.println("Justfortest.m4()");
 	}
+	
+	public void m3(){
+		System.out.println("Justfortest.m3()");
+	}
 }
