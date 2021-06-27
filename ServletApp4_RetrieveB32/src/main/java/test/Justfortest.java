@@ -14,4 +14,7 @@ public class Justfortest {
 		System.out.println("divide: 20 and 10");
 		return a-b;
 	}
+	public void m4() {
+		System.out.println("Justfortest.m4()");
+	}
 }
