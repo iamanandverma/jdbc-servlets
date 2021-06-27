@@ -10,4 +10,8 @@ public class Justfortest {
 		System.out.println("Subtract: 20 and 10");
 		return a-b;
 	}
+	public int div(int a, int b) {
+		System.out.println("divide: 20 and 10");
+		return a-b;
+	}
 }
